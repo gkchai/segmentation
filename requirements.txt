@@ -1,0 +1,11 @@
+numpy
+pandas
+tqdm
+tensorflow-gpu
+opencv-python
+
+##### tf_serving_client ####
+# tf_serving_api # breaks when installed together with tensorflow
+# grpio
+# grpcio-tools
+# googleapis-common-protos
